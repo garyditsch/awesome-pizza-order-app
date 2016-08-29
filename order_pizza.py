@@ -55,6 +55,7 @@ def main():
     )
 
     while True: 
+
         for menu_item in MENU_ITEMS:
             print(menu_item)
 
